@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Niki
+- 👋 Hi, I’m Nikita
 - 👀 I’m interested in AI, coding and all sci-fi movies and books out there
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything interesting out there
